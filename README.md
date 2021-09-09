@@ -1,5 +1,5 @@
 # Competitive-Programming
-h1 Source:
+h1Source:
 
 [CODE CHEIF](https://www.codechef.com/problems/school/)
 

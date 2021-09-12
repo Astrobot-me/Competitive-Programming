@@ -7,16 +7,22 @@
 ```For each test case, find the remainder when A is divided by B, and display it in a new line.```
 
 # Constraints
-> 1 ≤ T ≤ 1000
+> 1 ≤ T ≤ 1000,
+> 
 > 1 ≤ A,B ≤ 10000
 # Example
 ## Input
-```3 
-1 2
-100 200
-40 15```
+> 3 
+> 
+> 1 2
+> 
+> 100 200
+> 
+> 40 15
 
 ## Output
-```1
-100
-10```
+> 1
+> 
+> 100
+> 
+> 10
